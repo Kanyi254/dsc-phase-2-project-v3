@@ -48,6 +48,11 @@ This shows the fluctuations between foreign and domestic revenues.
 
 The above image shows that there's no increase in revenue given a higher budget is allocated.
 
+![alt text](cov.png)
+![alt text](cov2.png)
+![alt text](cov3.png)
+![alt text](cov4.png)
+
 ***Conclusion***
 * The budget doesn't guarantee a higher revenue. This shows us wee need to be careful in how much we add to the budget because we can get serious losses.
 
