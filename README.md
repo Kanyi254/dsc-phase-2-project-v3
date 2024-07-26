@@ -1,5 +1,9 @@
 ## COMPANY RESEARCH INTO THE MOVIE INDUSTRY
-
+* Student name: Brandon Mwangi
+                Faith Watene
+                David Wabuko
+                Emmanuel Chol
+                Mercy Jepkogei
 **Overview** 
 This project looks into this company venturing into the movie industry. Below we shall look into how
 our company can move into this industry with chances of success.
@@ -9,7 +13,8 @@ Your company now sees all the big companies creating original video content and 
 but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. 
 You must then translate those findings into actionable insights that the head of your company's new movie studio can use to help decide what type of films to create.
 
-
+##### Links
+[Tableau Dashboard](https://public.tableau.com/views/MovieAnalysis_17219859023510/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ##### Objectives
 The objectives for this research is :-
 To ensure the data we're working with is viable.
