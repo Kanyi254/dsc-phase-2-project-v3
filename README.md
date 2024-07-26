@@ -17,6 +17,8 @@ You must then translate those findings into actionable insights that the head of
 [Tableau Dashboard](https://public.tableau.com/views/MovieAnalysis_17219859023510/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 [Slides Presentation](https://docs.google.com/presentation/d/1Am1n47P1xHW2SmAd9tiuXX8ISVioOuAdfmPYyka0wOA/edit?usp=drive_link)
+     if unavailable
+ [Slides 2](https://www.canva.com/design/DAGMDrXvp4I/X8ZdoEU7ung9Zt2QQSuOOA/view?utm_content=DAGMDrXvp4I&utm_campaign=designshare&utm_medium=link&utm_source=editor)    
 ##### Objectives
 The objectives for this research is :-
 To ensure the data we're working with is viable.
